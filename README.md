@@ -5,7 +5,7 @@ _Para receber a nota 100% no exame, o cadete deve ser aprovado em 4 etapas.<br>
 _As etapas são constituídas de uma questão de cada nível escolhida pelo sistema em modo aleatório.<br>
 _O exame deve ser feito no terminal sem pré-configurações.<br>
 _Se o cadete falhar no exame (nota menor que 100%), ele deve refazer o teste do zero até atingir a nota esperada.<br>
-_subjects (enunciados) estão comentados no final de cada questão.
+_Subjects (enunciados) estão comentados no final de cada questão.
 
 #
 
